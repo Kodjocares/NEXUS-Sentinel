@@ -131,4 +131,4 @@ ransomware · PHP webshells · SQL injection · keylogger APIs · obfuscated Pow
 
 ## License
 
-MIT © 2025 Village Man / Jah Kodjo — NEXUS Sentinel
+MIT © 2025 Village Man— NEXUS Sentinel

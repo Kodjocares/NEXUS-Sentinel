@@ -25,7 +25,7 @@
 ### 1 — Clone & Install
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/nexus-sentinel.git
+git clone https://github.com/Kodjocares/nexus-sentinel.git
 cd nexus-sentinel
 npm install
 cd backend && pip install -r requirements.txt && cd ..

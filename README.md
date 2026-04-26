@@ -25,7 +25,7 @@
 ### 1 — Clone & Install
 
 ```bash
-git clone https://github.com/Kodjocares/nexus-sentinel.git
+git clone https://github.com/YOUR_USERNAME/nexus-sentinel.git
 cd nexus-sentinel
 npm install
 cd backend && pip install -r requirements.txt && cd ..
@@ -131,4 +131,4 @@ ransomware · PHP webshells · SQL injection · keylogger APIs · obfuscated Pow
 
 ## License
 
-MIT © 2025 Village Man— NEXUS Sentinel
+MIT © 2025 Village Man / Jah Kodjo — NEXUS Sentinel
